@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Chicken Biryani",
+     "image": "/assets/biryani.jpg",
+      "price": 300,
+      "serves": 3
+    },
+    {
+      "id": 2,
+      "name": "Kheer",
+      "image": "/assets/kheer.png",
+      "price": 150,
+      "serves": 1
+    },
+    {
+      "id": 3,
+      "name": "Choclate paratha",
+      "image": "/assets/paratha.jpeg",
+      "price": 250,
+      "serves": 2
+    }
+  ]
+  
