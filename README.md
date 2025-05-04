@@ -4,6 +4,12 @@
 
 HomeCook is a simple React-based web application that allows users to browse a daily-changing menu of home-cooked meals, select quantities based on number of persons, and place orders to be delivered to a specified address.
 
+## 📽️ Output Demo Video
+
+
+
+https://github.com/user-attachments/assets/fdba39a1-d71e-47bc-872b-6c47a5b0e9ef
+
 
 ## 🚀 Features
 
