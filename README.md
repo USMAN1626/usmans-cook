@@ -1,5 +1,22 @@
 # React + Vite
 
+# 🍽️ HomeCook – Daily Home Cooked Meal Ordering App
+
+HomeCook is a simple React-based web application that allows users to browse a daily-changing menu of home-cooked meals, select quantities based on number of persons, and place orders to be delivered to a specified address.
+
+
+## 🚀 Features
+
+- 🏠 **Home Page** showing today's menu
+- 📸 Food items with images, price, and number of persons each serving supports
+- ⏰ Enforces ordering at least 5 hours before delivery
+- 👥 Customer selects how many persons to serve
+- 💰 Auto-calculates total based on servings
+- 📍 Accepts delivery address and delivery time
+- ✅ Confirms order if time is valid
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
